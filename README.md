@@ -17,4 +17,5 @@ Tunisian dialect is significantly different from the Arabic language taught in s
 
 
 For further improvements, we need to collect more of data first of all and try more NLP tasks with the TD.
+
 For more details, ideas, thoughts.. please contact me: mahmoudjarraya@gmail.com
